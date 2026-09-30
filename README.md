@@ -9,6 +9,7 @@ leetcode
 | [0053-maximum-subarray](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -21,6 +22,7 @@ leetcode
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0283-move-zeroes/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -40,6 +42,7 @@ leetcode
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
