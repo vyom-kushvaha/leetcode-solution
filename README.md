@@ -7,6 +7,7 @@ leetcode
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
+| [0075-sort-colors](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0283-move-zeroes/) | Easy |
@@ -18,11 +19,13 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0283-move-zeroes/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 ## Prefix Sum
@@ -54,4 +57,12 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
