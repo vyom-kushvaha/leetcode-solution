@@ -10,6 +10,7 @@ leetcode
 | [0075-sort-colors](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -33,6 +34,7 @@ leetcode
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
