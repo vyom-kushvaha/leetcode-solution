@@ -17,6 +17,7 @@ leetcode
 | [0724-find-pivot-index](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [1470-shuffle-the-array](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
+| [1929-concatenation-of-array](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,4 +84,8 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
