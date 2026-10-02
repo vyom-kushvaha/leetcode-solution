@@ -3,6 +3,16 @@ name: Sync LeetCode
 on:
   workflow_dispatch:
 
+  schedule:
+    # 11:00 AM IST
+    - cron: "30 5 * * *"
+
+    # 7:00 PM IST
+    - cron: "30 13 * * *"
+
+    # 11:00 PM IST
+    - cron: "30 17 * * *"  # 11:00 PM IST
+
 permissions:
   contents: write
 
