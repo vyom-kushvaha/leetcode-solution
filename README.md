@@ -46,6 +46,7 @@ leetcode
 | ------- | ------- |
 | [0268-missing-number](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
+| [0409-longest-palindrome](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0409-longest-palindrome/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
+| [0409-longest-palindrome](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0409-longest-palindrome/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,4 +95,8 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0409-longest-palindrome](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0409-longest-palindrome/) | Easy |
 <!---LeetCode Topics End-->
