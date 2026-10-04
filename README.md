@@ -10,6 +10,7 @@ leetcode
 | [0056-merge-intervals](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0189-rotate-array](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
@@ -66,6 +67,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
+| [0119-pascals-triangle-ii](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0119-pascals-triangle-ii/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
