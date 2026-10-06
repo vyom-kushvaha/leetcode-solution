@@ -5,6 +5,7 @@ leetcode
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
@@ -82,6 +83,7 @@ leetcode
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0409-longest-palindrome/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
@@ -101,4 +103,8 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0409-longest-palindrome/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
