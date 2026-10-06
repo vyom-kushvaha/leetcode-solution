@@ -50,6 +50,7 @@ leetcode
 | [0268-missing-number](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0409-longest-palindrome/) | Easy |
+| [0771-jewels-and-stones](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0771-jewels-and-stones/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +90,7 @@ leetcode
 | [0387-first-unique-character-in-a-string](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0409-longest-palindrome/) | Easy |
+| [0771-jewels-and-stones](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0771-jewels-and-stones/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
