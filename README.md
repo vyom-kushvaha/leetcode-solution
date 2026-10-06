@@ -29,6 +29,7 @@ leetcode
 | [0088-merge-sorted-array](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0283-move-zeroes/) | Easy |
+| [0392-is-subsequence](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0392-is-subsequence/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -71,6 +72,7 @@ leetcode
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0119-pascals-triangle-ii/) | Easy |
+| [0392-is-subsequence](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0392-is-subsequence/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +87,7 @@ leetcode
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0409-longest-palindrome/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 ## Queue
