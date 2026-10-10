@@ -1,0 +1,27 @@
+class Solution {
+public:
+    bool canConstruct(string ransomNote, string magazine) {
+        if (ransomNote.length() > magazine.length()) {
+            return false;
+        }
+
+        int freq1[26] = {0};
+        int freq2[26] = {0};
+
+        for (char ch1 : ransomNote) {
+            freq1[ch1 - 'a']++;
+        }
+
+        for (char ch2 : magazine) {
+            freq2[ch2 - 'a']++;
+        }
+
+        for (int i = 0; i < 26; i++) {
+            if (freq1[i] > freq2[i]) {
+                return false;
+            }
+        }
+
+        return true;
+    }
+};
