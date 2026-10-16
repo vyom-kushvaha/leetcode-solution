@@ -7,6 +7,7 @@ leetcode
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0049-group-anagrams](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
@@ -34,6 +35,7 @@ leetcode
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
@@ -48,6 +50,7 @@ leetcode
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
@@ -89,6 +92,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0014-longest-common-prefix/) | Easy |
+| [0049-group-anagrams](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/vyom-kushvaha/leetcode-solution/tree/main/0392-is-subsequence/) | Easy |
